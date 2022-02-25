@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for an additional excise Edinburgh, May 5. 1693.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58560</idno>
+            <idno type="STC">Wing S1087</idno>
+            <idno type="STC">ESTC R222488</idno>
+            <idno type="EEBO-CITATION">99833655</idno>
+            <idno type="PROQUEST">99833655</idno>
+            <idno type="VID">38133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2177:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for an additional excise Edinburgh, May 5. 1693.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Convention of Estates. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>heir of A.A.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Steele.</note>
+                  <note>Cropped at head and foot, affecting imprint.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38133:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <hi>ACT</hi> For an Additional Exciſe.</head>
+            <opener>
+               <dateline>Edinburgh, <date>May 5. 1693.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE ESTATES OF PARLIAMENT, Taking to Their conſideration, that the pre<g ref="char:EOLhyphen"/>ſent Dangers of the Kingdom, do Require for its neceſſary Defence, a greater number of Forces to be Levyed and Kept up, for which Additional Fonds to the preſent Supply upon the Land-Rent will be requiſite: Do therefore, for one of theſe Fonds, over and above the Exciſe of two Merks on the Boll of Malt annexed to the Crown, Heartily Offer to Their Majeſties, for the End foreſaid, an Additional Exciſe of three Pennies upon the Pint of all Ale and Beer Browen, to be Vended and Sold: As alſo of two Shilling upon each Pint of Aquavity and ſtrong Waters Browen or made of Malt, to be Ven<g ref="char:EOLhyphen"/>ded and Sold within the Kingdom: And likewiſe an Additional Exciſe, of two Shilling upon each Pint of Aquavity &amp; ſtrong VVaters Browen, not made of Malt, excepting what is made of VVine: which Exciſe, is to be payed in manner following, <hi>viz.</hi> For the firſt two Months of <hi>June</hi> &amp; <hi>July,</hi> upon the firſt of <hi>Auguſt</hi> next 1693: And thereafter quarterly, during the ſpace of twenty three Months, Commencing from the firſt day of <hi>June</hi> next, and ending the firſt day of <hi>May</hi> 1695: For making of the which Offer effectual, Their Maje<g ref="char:EOLhyphen"/>ſties with Advice and Conſent of the ſaid Eſtates of Parliament, Do hereby Impoſe and Ordain the fore<g ref="char:EOLhyphen"/>ſaid Additional Exciſe of three Pennies upon the Pint of Ale and Beer, and two Shilling on the Pint of Aquavity and ſtrong VVaters made of Malt, or otherwiſe as aforeſaid, to be Raiſed and Uplifted from all Brewers of the ſaid Liquors Browen and made, to be Vended and Sold, as ſaid is, for the ſaid ſpace of twenty three Months. And for the Raiſing, Ordering, and In-bringing thereof, they do hereby Ap<g ref="char:EOLhyphen"/>point and Authorize the Commiſſioners of the new Supply, Nominat and Appointed in another Act of this preſent Seſſion of Parliament, to be Commiſſioners of Exciſe for the ſeveral Shires for the end foreſaid: And the Royal Burghs to have the ſame number of Commiſſioners, as was appointed by the fourteenth Act of the Parliament one thouſand ſix hundred ſixty &amp; one; Impowering them fully for that effect, conform to the Rules and Orders formerly Enacted, for Raiſing and In bringing the foreſaid annexed Exciſe: As alſo, to ſet down and cauſe obſerve ſuch other Rules, as they ſhall judge neceſſary, agreeable always to the Acts of Parliament already made, about the foreſaid former Exciſe. And to the effect, that abuſes in this matter may be prevented, Their Majeſties with Conſent foreſaid, Do hereby Declare and Enact, that if any Brewer in uſe to Brew for Sale and Change ſhall give over Brewing after the Date of this Act, without an Allowance in VVriting from the ſaid Commiſſioners of Exciſe, for good and ſeen Cauſes, the ſaid Brewer ſhall not be permirted to Brew for Change, for the ſpace of five years thereafter, but ſhall be, and is hereby Diſcharged and Rendered Incapable to do the ſame. As likewiſe, it is hereby Statute and Ordained, that no Perſons whatſoever, who have not been in uſe to Brew, for the Service of themſelves, and their Family, in time by-paſt, ſhall pre<g ref="char:EOLhyphen"/>ſume to Brew after the firſt of <hi>June</hi> next, for their own, and their Families uſe, and if they Contraveen, that they ſhall be lyable in payment of Exciſe, for what they ſhall Brew. And Their Majeſties with Conſent foreſaid, Do Ordain the firſt Dyet of Meeting of the ſaids Commiſſioners, to be as follows, <hi>viz.</hi> For theſe Shires on this ſide of the River of <hi>Tay,</hi> upon the ſixteenth day of <hi>May</hi> inſtant, and for the Shires be-north <hi>Tay,</hi> upon the twenty third day of <hi>May.</hi> And grants VVarrand to the Sheriffs, and Stewarts of the ſeveral Shires and Stewartries, and their Clerks, to Conveen the ſaids Commiſſioners to that effect, with power to them thereafter, to appoint their own Conveener, and ſubſequent Dyets of Meeting. And it is hereby Declared, that if any Tackſman, or Collector, or other Perſon, ſhall exact any thing over and above his Exciſe, for the Diſcharges thereof, or for the Diſcharge of any other Publick Dues whatſoever, it ſhall be repute as Oppreſſion, and puniſhed accordingly by the ſaids Commiſſioners, who are hereby Impowered to proceed againſt the Perſons guilty: And Their Majeſties, with Advice and Conſent foreſaid, Do Authorize and Im<g ref="char:EOLhyphen"/>power the Lords of Privy Council, to preſcribe ſuch other Methods and Orders, as they ſhall judge neeſſary, for making this Act effectual.  <hi>Extracted forth of the Records of Parliament, by</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>TARBAT,</hi> Cls. Regiſt.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
